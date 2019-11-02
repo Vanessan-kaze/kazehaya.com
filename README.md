@@ -1,0 +1,2 @@
+# kazehaya.com
+my blog
